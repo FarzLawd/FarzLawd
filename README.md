@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/FarzLawd">
-    <img src="[https://github.com/FarzLawd/FarzLawd/raw/main/avatar.png](https://avatars.githubusercontent.com/u/182212305?s=400&u=fbcd91a1a3fd985ee305f90c27a08faa51cbc9f8&v=4)" alt="FarzLawd" /></a>
+    <img src="https://avatars.githubusercontent.com/u/182212305?s=400&u=fbcd91a1a3fd985ee305f90c27a08faa51cbc9f8&v=4" alt="FarzLawd" width="120" /></a>
 </p>
 
 <p align="center">
