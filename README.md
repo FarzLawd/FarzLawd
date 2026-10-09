@@ -20,11 +20,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Web & Automation Projects**
-- 🌱 I’m currently learning **System Design, DevOps & Cloud**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, TypeScript & Python**
-- ⚡ Fun fact: **I debug with `console.log()` and ☕**
+Software Engineer focused on building fast, reliable web applications and automation tools. I care about clean architecture, readable code, and shipping things that actually work. Currently deepening my knowledge in system design, DevOps, and cloud infrastructure.
+
+```javascript
+const farzLawd = {
+  role: "Full-Stack Developer",
+  languages: ["JavaScript", "TypeScript", "Python"],
+  currentlyLearning: ["System Design", "DevOps", "Cloud"],
+  focus: ["Web Apps", "Automation", "APIs"],
+  code: "clean, tested, and production-ready",
+};
+```
 
 ---
 
