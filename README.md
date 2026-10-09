@@ -17,7 +17,7 @@
 </p>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Top Open Source Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/FarzLawd/webcam-tele"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FarzLawd&repo=webcam-tele&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="webcam-tele"></a>
@@ -29,7 +29,7 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -125,7 +125,5 @@
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="FarzLawd's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=FarzLawd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
