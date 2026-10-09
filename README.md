@@ -1,50 +1,47 @@
-<h1 align="center">Hi 👋, I'm FarzLawd</h1>
-<h3 align="center">Web Developer • Software Engineer • Problem Solver</h3>
+## Hi there 👋, I'm FarzLawd!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-- 🔭 I'm currently working on **web & automation projects**
-- 🌱 I'm learning **advanced backend & cloud technologies**
-- 💬 Ask me about **JavaScript, TypeScript, Python**
-- ⚡ Fun fact: **I love turning ideas into real products**
+- 🔭 I’m currently working on **Web & Automation Projects**
+- 🌱 I’m currently learning **System Design, DevOps & Cloud**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, TypeScript & Python**
+- 📫 How to reach me: **youremail@example.com**
+- ⚡ Fun fact: **I debug with console.log() and ☕**
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-**Languages:**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 
-**Frameworks & Libraries:**
+#### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+#### 🛠️ Tools & Database
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
+**Total Contributions** 📈
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarzLawd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarzLawd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzLawd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
@@ -53,27 +50,34 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzLawd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzLawd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[anjy](https://github.com/FarzLawd/anjy)** | Web project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[webcam-tele](https://github.com/FarzLawd/webcam-tele)** | Webcam & Telegram integration | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[botdo](https://github.com/FarzLawd/botdo)** | Telegram bot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[new](https://github.com/FarzLawd/new)** | Experiment project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarzLawd&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FarzLawd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 </p>
+
+---
+
+### 🚀 Pinned Projects
+
+<div align="center">
+
+| [anjy](https://github.com/FarzLawd/anjy) | [webcam-tele](https://github.com/FarzLawd/webcam-tele) |
+|---|---|
+| Web project | Webcam & Telegram integration |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+
+| [new](https://github.com/FarzLawd/new) | [botdo](https://github.com/FarzLawd/botdo) |
+|---|---|
+| Experiment project | Telegram bot |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
 
 ---
 
@@ -87,3 +91,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarzLawd&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
+
+<p align="center"><i>⭐ Keep learning. Keep building. Keep growing! ⭐</i></p>
