@@ -8,14 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/FarzLawd?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FarzLawd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/FarzLawd?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FarzLawd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 <details open> 
   <summary><h2>📘 Top Open Source Projects</h2></summary>
 
